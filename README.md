@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-<img height="195px" width="410px" src="https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&show_icons=true&theme=dracula"/>
+<img height="180px" width="410px" src="https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&show_icons=true&theme=dracula"/>
 <img height="210px" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
