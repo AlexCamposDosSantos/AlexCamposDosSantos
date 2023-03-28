@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 
 ![AlexCamposDosSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&show_icons=true&theme=dracula)
-<img height="195px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="195px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Tecnologias que utilizo no meu dia
 
