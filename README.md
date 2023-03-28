@@ -7,7 +7,7 @@
 
 <div>
 <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&show_icons=true&theme=dracula"/>
-<div style="margin-left:20px;"><img height="200px" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=dracula"/></div></div>
+<div style="margin-left:20px; float:left;" ><img height="200px" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=dracula"/></div></div>
 
 ## Tecnologias que utilizo no meu dia
 
@@ -15,7 +15,7 @@
 <img aalt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div><div style="display: inline_block;  float:left; margin-left:10px;"></br>
 <img aalt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div><div style="display: inline_block;  float:left; margin-left:10px;"></br>
+</div><div style="display: inline_block; float:left; margin-left:10px;"></br>
 <img aalt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
