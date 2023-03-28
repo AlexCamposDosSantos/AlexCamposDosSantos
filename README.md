@@ -7,7 +7,7 @@
 
 <div>
 <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&show_icons=true&theme=dracula"/>
-<div style="margin-left:20px; float:left;" ><img height="200px" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=dracula"/></div></div>
+<div style="margin-left:10px; float:left;" ><img height="200px" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=dracula"/></div></div>
 
 ## Tecnologias que utilizo no meu dia
 
