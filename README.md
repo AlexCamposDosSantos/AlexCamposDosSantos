@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Alex Campos dos Santos 🖐️
 
-- 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript / SQL
 - 📫 contate-me no email: alecsno@gmail.com
 - 😄 Pronouns: ele/dele
