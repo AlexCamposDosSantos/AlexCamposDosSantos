@@ -9,7 +9,7 @@
 <img height="200px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=buefy"/></div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexCamposDosSantos&bg_color=ffffff&color=8000ff&line=d7cae8&point=a600ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexCamposDosSantos&bg_color=ffffff&color=8000ff&line=d7cae8&point=a600ff&area=true&hide_border=true)]
 
 ## Tecnologias que utilizo no meu dia
 <div>
