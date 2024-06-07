@@ -3,9 +3,9 @@
 - 🌱 Estudando JavaScript / SQL
 - 📫 contate-me no email: alecsno@gmail.com
 - 😄 Pronouns: ele/dele
-
+  
 <div>
-<img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&show_icons=true&theme=buefy"/>   
+<img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&theme=buefy&show_icons=true"/>   
 <img height="200px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=buefy"/></div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexCamposDosSantos&bg_color=ffffff&color=8000ff&line=d7cae8&point=a600ff&area=true&hide_border=true)](https://github.com/AlexCamposDosSantos)
