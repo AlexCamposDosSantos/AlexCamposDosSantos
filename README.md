@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alex Campos dos Santos 🖐️
 
-- 🌱 Estudando JavaScript / SQL
+- 🌱 Estudando Python / N8N
 - 📫 contate-me no email: alecsno@gmail.com
 - 😄 Pronouns: ele/dele
   
