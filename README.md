@@ -1,7 +1,9 @@
 # Olá, eu sou o Alex Campos 🚀
 
 ### System Architect | Full-stack Developer | Data Analytics Specialist
-Atualmente focado em arquitetura de sistemas escaláveis, automação de processos de identidade (IAM) e soluções de Business Intelligence. Combinando segurança da informação com desenvolvimento ágil para entregar valor real ao negócio.
+Focado em arquitetura de sistemas escaláveis, automação de processos de identidade (IAM) e soluções de Business Intelligence. Combinando segurança da informação com desenvolvimento ágil para entregar valor real ao negócio.
+
+🌐 **Acesse meu portfólio:** [alexcampos.dev](https://alexcampos.dev)
 
 ---
 
@@ -16,9 +18,9 @@ Atualmente focado em arquitetura de sistemas escaláveis, automação de process
 
 ### 📂 Projetos em Destaque
 
-*   **Menu Aki:** Plataforma SaaS multi-tenant para gestão de pedidos via WhatsApp, focada em autonomia para restaurantes.
-*   **IAM Automation & Audit:** Desenvolvimento de scripts complexos para auditoria de identidades, cruzando dados de RH com logs de sistemas para governança de acessos.
-*   **HEOR Value Hub:** Desenvolvimento de plataforma profissional com suporte multilíngue e design refinado.
+*   **Menu Aki:** Plataforma SaaS multi-tenant para gestão de pedidos via WhatsApp, focada em autonomia para restaurantes e eliminação de taxas de marketplace.
+*   **IAM Automation & Audit (Anima Educação):** Desenvolvimento de soluções de auditoria cruzando dados de RH com logs de sistemas para governança de acessos em larga escala.
+*   **Admira:** Sistema de controle financeiro especializado para gestão empresarial privada.
 
 ---
 
@@ -43,6 +45,7 @@ Atualmente focado em arquitetura de sistemas escaláveis, automação de process
 
 <p align="left">
 <a href="https://linkedin.com/in/alex-santos-561a74231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://alexcampos.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="alexcampos.dev" height="30" width="40" /></a>
 <a href="mailto:alecsno@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
 </p>
 
