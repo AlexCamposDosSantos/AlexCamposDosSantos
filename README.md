@@ -1,47 +1,65 @@
 # Olá, eu sou o Alex Campos 🚀
 
-### System Architect | Full-stack Developer | Data Analytics Specialist
-Focado em arquitetura de sistemas escaláveis, automação de processos de identidade (IAM) e soluções de Business Intelligence. Combinando segurança da informação com desenvolvimento ágil para entregar valor real ao negócio.
+### **System Architect | Full-stack Developer | BI & Data Specialist**
+*Transformando dados e processos em eficiência operacional através de arquitetura inteligente e segurança rigorosa.*
 
-🌐 **Acesse meu portfólio:** [alexcampos.dev](https://alexcampos.dev)
+[![Website](https://img.shields.io/badge/alexcampos.dev-059669?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexcampos.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-santos-561a74231)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5566999282243)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🏛️ Atuação Profissional
+Atualmente sou **Analista de Segurança da Informação na Ânima Educação**, focado em:
+- **IAM (Identity & Access Management):** Governança, auditoria e automação de acessos em larga escala.
+- **Arquitetura de Dados:** Desenvolvimento de pipelines de auditoria e Dashboards Master de governança (unificando +20 fontes de dados).
+- **Desenvolvimento Full-stack:** Criação de ferramentas internas de alta performance (PHP/Laravel, Python, React).
 
-- **Linguagens & Frameworks:** Python (Pandas, Selenium, Playwright), PHP (Laravel), Node.js, React, Twig.
-- **Dados & BI:** SQL (Oracle, MySQL, Spark SQL), Power BI (DAX avançado), ETL e Big Data.
-- **Automação & Cloud:** n8n, Integrações de API, Automação de Processos IAM.
-- **Metodologias:** Arquitetura de Sistemas, RAG (Retrieval-Augmented Generation), Gestão de Acessos.
+---
+
+### 🛠️ Toolbox Técnica
+
+| Domínio | Tecnologias |
+| :--- | :--- |
+| **Sistemas & Web** | PHP (Laravel), Node.js, React, Next.js, JavaScript/TypeScript |
+| **Dados & BI** | Python (Pandas), SQL (Oracle, MySQL, Spark SQL), Power BI (DAX/M), Databricks |
+| **Automação & RPA** | Playwright, Selenium, n8n, Integrações de API (Microsoft Graph) |
+| **Segurança & Infra** | Governança IAM, Zero Trust, LGPD Compliance, Azure |
 
 ---
 
 ### 📂 Projetos em Destaque
 
-*   **Menu Aki:** Plataforma SaaS multi-tenant para gestão de pedidos via WhatsApp, focada em autonomia para restaurantes e eliminação de taxas de marketplace.
-*   **IAM Automation & Audit (Anima Educação):** Desenvolvimento de soluções de auditoria cruzando dados de RH com logs de sistemas para governança de acessos em larga escala.
-*   **Admira:** Sistema de controle financeiro especializado para gestão empresarial privada.
+* **Menu Aki:** Plataforma SaaS multi-tenant para gestão de pedidos via WhatsApp, eliminando taxas de marketplace para restaurantes.
+* **Central Master de Acessos:** Hub consolidado de 23 dashboards de governança, automatizado via Python e Power Automate.
+* **Horacius Tools:** Ecossistema para gestão de acessos em lote, processando milhares de requisições via API com erro operacional zero.
+* **Admira:** Sistema proprietário de controle financeiro especializado para gestão empresarial privada.
 
 ---
 
 ### 📊 Estatísticas e Atividade
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&theme=buefy&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=buefy"/>
+</div>
 
 ![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AlexCamposDosSantos&bg_color=ffffff&color=8000ff&line=d7cae8&point=a600ff&area=true&hide_border=true)
 
 ---
 
 ### 🎓 Formação Acadêmica
-- **MBA em Business Intelligence, Management & Analytics** – Anhembi Morumbi.
-- **Especialista em Segurança da Informação** (Foco em Identity & Access Management).
+- **MBA em Business Intelligence, Management & Analytics** – Anhembi Morumbi
+- **Pós-graduando em Inteligência Artificial & Ciência de Dados**
+- **Especialista em Segurança da Informação** (Foco em IAM)
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Vamos conversar?
+Se você precisa de uma consultoria técnica para automação de processos, análise de dados ou desenvolvimento de sistemas seguros, entre em contato:
+- 🌐 [alexcampos.dev](https://alexcampos.dev)
+- 📧 [alecsno@gmail.com](mailto:alecsno@gmail.com)
+- 📍 Feira de Santana, BA - Brasil
 
-<p align="left">
-<a href="https://linkedin.com/in/alex-santos-561a74231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://alexcampos.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="alexcampos.dev" height="30" width="40" /></a>
-<a href="mailto:alecsno@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-</p>
-
-<span><i>"Transformando dados e processos em eficiência operacional através de código limpo e arquitetura inteligente."</i></span>
+---
+*"A estética é o ponto de partida. Segurança e dados são o alicerce."*
