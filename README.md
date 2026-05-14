@@ -39,11 +39,6 @@ Atualmente sou **Analista de Segurança da Informação na Ânima Educação**, 
 
 ### 📊 Estatísticas e Atividade
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCamposDosSantos&theme=buefy&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposDosSantos&layout=compact&langs_count=7&theme=buefy"/>
-</div>
-
 ![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AlexCamposDosSantos&bg_color=ffffff&color=8000ff&line=d7cae8&point=a600ff&area=true&hide_border=true)
 
 ---
